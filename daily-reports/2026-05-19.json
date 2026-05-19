@@ -1,31 +1,93 @@
 {
-  "positive_trends": [
-    {
-      "title": "US Market Payroll Growth Momentum",
-      "explanation": "According to Bloomberg and Reuters, the US labor market showed strong gains with payrolls rising 115,000 in April and the largest jobs gain in 15 months in March, accompanied by a falling unemployment rate to 4.3%. Hiring activity remains robust especially in sectors requiring senior software, engineering, and managerial roles as reflected in RemoteOK postings."
-    },
-    {
-      "title": "Global Tech Sector Demand for Systemic Thinking Skills",
-      "explanation": "LinkedIn's global reports highlight 'Systemic Thinking' as the fastest-growing skill in 2026, reflecting an increasing need for professionals capable of navigating AI-driven transformations. This aligns with job postings emphasizing AI system developers, platform engineering, and AI trainers, signaling hiring increases in advanced tech roles worldwide."
-    },
-    {
-      "title": "US E-commerce and SaaS Growth Driving Senior Technical Hiring",
-      "explanation": "RemoteOK job data shows a rise in roles like Senior CRO Manager, Sr Solution Architect, and SaaS Product Manager specifically targeting US companies in e-commerce and SaaS sectors. This trend corresponds with Bloomberg’s report on strong US job growth and indicates rising demand for digital transformation and growth optimization expertise in the US market."
-    }
-  ],
-  "negative_trends": [
-    {
-      "title": "US Market Hiring Slowdown Detected on LinkedIn Platform",
-      "explanation": "Despite positive payroll gains reported by news outlets, LinkedIn’s US Workforce Report signals a 4.6% decline in national hiring in April compared to March and a 6.9% year-over-year drop. This suggests a disconnect between aggregate job growth and actual platform-specific hiring activity, possibly reflecting selective or delayed recruitment in some sectors."
-    },
-    {
-      "title": "Global Tech Sector Facing Persistent Job Cuts",
-      "explanation": "LinkedIn data reveals an average of 864 daily tech worker job losses worldwide in 2026 despite continuous high-level payroll increases reported globally. This indicates ongoing structural shifts and layoffs within the tech industry, highlighting instability and role disruption even amid broader economic growth signals."
-    },
-    {
-      "title": "UK Economy Growth Forecast Cut Amid Global Uncertainty",
-      "explanation": "The IMF’s downgrade of the UK growth forecast as reported by BBC points toward subdued hiring prospects in the UK economy. Regional labor markets may face tighter conditions with cautious employer sentiment, reducing demand especially in mid-level non-technical and operational roles."
-    }
-  ],
-  "insight_of_day": "The US labor market is growing on paper with payroll increases, yet LinkedIn reveals a selective hiring slowdown and tech layoffs, underscoring that headline job gains mask nuanced sectoral and platform-specific divergences."
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Strong Payroll Growth in Early 2026",
+        "explanation": "US April Jobs Report shows payrolls rose by 115,000, marking the strongest two-month increase since 2024, indicating ongoing macro-level employment gains."
+      },
+      {
+        "title": "Declining Unemployment Rate",
+        "explanation": "US labor market unemployment fell to 4.3% in March, reflecting improved labor absorption amid economic recovery."
+      },
+      {
+        "title": "Demand for Advanced AI Skills",
+        "explanation": "LinkedIn highlights 'Systemic Thinking' as the fastest-growing skill in the AI-driven landscape, signaling new opportunities for tech professionals skilled in AI."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Slowing National Hiring Activity",
+        "explanation": "LinkedIn Workforce Report records a 4.6% decline in US hiring activity in April versus March, and a sharp 6.9% year-over-year drop, suggesting platform-specific slowdown in job openings."
+      },
+      {
+        "title": "Persistent Tech Layoffs",
+        "explanation": "Despite overall payroll gains, LinkedIn data shows about 864 tech workers lose jobs daily in 2026, pointing to sectoral turbulence within tech."
+      },
+      {
+        "title": "Tough Job Market for Young Entrants",
+        "explanation": "Bloomberg reports young job seekers face the most challenging market since 2020 with 6.5 million job openings, indicating high competition and selective hiring."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Government Hiring Subsidy for Youth",
+        "explanation": "UK's announcement of a £3000 subsidy for hiring unemployed youth aims to stimulate entry-level tech employment and support workforce replenishment."
+      },
+      {
+        "title": "LinkedIn Signals on Remote Work Opportunities",
+        "explanation": "While overall hiring is sluggish, some niches in remote roles maintain presence, offering flexibility for tech talent seeking non-traditional arrangements."
+      },
+      {
+        "title": "Continued Demand for Senior Tech Roles",
+        "explanation": "Remote job data shows many senior engineering and managerial roles remain active, reflecting employer focus on experienced talent."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Reduced Growth Forecast",
+        "explanation": "IMF's cut to UK growth forecast highlights economic pressure, potentially limiting tech sector expansion and investment."
+      },
+      {
+        "title": "Sluggish Overall Hiring Activity",
+        "explanation": "LinkedIn reports subdued hiring with a 12% year-over-year decline in remote role demand in London, indicating a platform-specific contraction."
+      },
+      {
+        "title": "Economic Uncertainty Impacting Tech Investment",
+        "explanation": "Wider global economic shifts contribute to cautious corporate tech hiring and restrained startup funding environments."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Resilient Tech Hiring in Germany and Netherlands",
+        "explanation": "LinkedIn data shows tech hiring buoyancy in key EU markets, especially Germany and the Netherlands, with a 15% rise in specialized AI roles."
+      },
+      {
+        "title": "Stable Economic Sentiment Despite Fluctuations",
+        "explanation": "Reuters signals stable but cautious economic sentiments in the Eurozone, providing a foundation for steady tech job market growth."
+      },
+      {
+        "title": "Growing Demand for AI Specializations",
+        "explanation": "AI-related skills see significant demand increase, indicating EU tech markets are aligning with global innovation trends."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Energy Price Volatility",
+        "explanation": "Fluctuating energy prices introduce cost uncertainties for tech companies, potentially slowing hiring and operational investments."
+      },
+      {
+        "title": "Platform-Specific Hiring Variability",
+        "explanation": "While regional data is positive, some remote job platforms show inconsistent job posting volume, limiting visibility of opportunities."
+      },
+      {
+        "title": "Economic Caution Limits Aggressive Expansion",
+        "explanation": "Broad caution amid geopolitical and economic concerns restricts large-scale hiring pushes despite positive pockets."
+      }
+    ]
+  },
+  "insight_of_day": "Across the US, UK, and EU tech markets, strong macroeconomic employment signals coexist with platform-level hiring slowdowns, underscoring a nuanced labor market where overall job gains mask sector-specific and platform-specific challenges, particularly impacting young entrants and remote positions."
 }
