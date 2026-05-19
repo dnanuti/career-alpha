@@ -1,0 +1,31 @@
+{
+  "positive_trends": [
+    {
+      "title": "Healthcare Sector Driving Job Growth",
+      "explanation": "Despite an overall slowdown in hiring, healthcare-related roles, including medical editors, therapists, and population health executives, continue to show strong demand, supported by LinkedIn data indicating healthcare as the primary growth driver."
+    },
+    {
+      "title": "Rising Demand for Cloud, SaaS, and Platform Engineering Skills",
+      "explanation": "Job openings for senior and staff engineers specializing in SaaS architectures, cloud platforms, API development, and platform reliability engineering are increasing, reflecting the industry's investment in scalable digital infrastructure."
+    },
+    {
+      "title": "Emergence of Systemic Thinking as a Key Skill",
+      "explanation": "LinkedIn identifies systemic thinking as the top growing skill, aligning with job listings seeking leaders and solution architects capable of managing complex systems, particularly in technical support, engineering, and operational roles."
+    }
+  ],
+  "negative_trends": [
+    {
+      "title": "Overall National Hiring Continues to Lag Behind Pre-Pandemic Levels",
+      "explanation": "Hiring rates remain 16% below 2019 benchmarks, with LinkedIn reporting a further 4.6% slowdown in April, highlighting ongoing caution among employers despite positive economic news."
+    },
+    {
+      "title": "Persistent Tech Sector Layoffs",
+      "explanation": "LinkedIn data reveals an average of 864 daily tech layoffs in 2026, reinforcing the contraction in some technology segments even though niche areas like cloud and SaaS engineering hold demand."
+    },
+    {
+      "title": "Platform-Specific Slowdowns in Hiring Activity",
+      "explanation": "LinkedIn data signals a platform-specific hiring slowdown contrasting with broader market optimism from economic news outlets, indicating a possible divergence between aggregate labor market trends and digital platform job posting dynamics."
+    }
+  ],
+  "insight_of_day": "While macroeconomic optimism fuels market gains and sectoral growth in healthcare and cloud engineering, systemic skill demands rise even as traditional tech hiring stalls, reflecting a nuanced labor market unevenly benefiting specialized roles."
+}
