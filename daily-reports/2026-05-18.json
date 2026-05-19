@@ -1,31 +1,93 @@
 {
-  "positive_trends": [
-    {
-      "title": "Healthcare Sector Driving Job Growth",
-      "explanation": "Despite an overall slowdown in hiring, healthcare-related roles, including medical editors, therapists, and population health executives, continue to show strong demand, supported by LinkedIn data indicating healthcare as the primary growth driver."
-    },
-    {
-      "title": "Rising Demand for Cloud, SaaS, and Platform Engineering Skills",
-      "explanation": "Job openings for senior and staff engineers specializing in SaaS architectures, cloud platforms, API development, and platform reliability engineering are increasing, reflecting the industry's investment in scalable digital infrastructure."
-    },
-    {
-      "title": "Emergence of Systemic Thinking as a Key Skill",
-      "explanation": "LinkedIn identifies systemic thinking as the top growing skill, aligning with job listings seeking leaders and solution architects capable of managing complex systems, particularly in technical support, engineering, and operational roles."
-    }
-  ],
-  "negative_trends": [
-    {
-      "title": "Overall National Hiring Continues to Lag Behind Pre-Pandemic Levels",
-      "explanation": "Hiring rates remain 16% below 2019 benchmarks, with LinkedIn reporting a further 4.6% slowdown in April, highlighting ongoing caution among employers despite positive economic news."
-    },
-    {
-      "title": "Persistent Tech Sector Layoffs",
-      "explanation": "LinkedIn data reveals an average of 864 daily tech layoffs in 2026, reinforcing the contraction in some technology segments even though niche areas like cloud and SaaS engineering hold demand."
-    },
-    {
-      "title": "Platform-Specific Slowdowns in Hiring Activity",
-      "explanation": "LinkedIn data signals a platform-specific hiring slowdown contrasting with broader market optimism from economic news outlets, indicating a possible divergence between aggregate labor market trends and digital platform job posting dynamics."
-    }
-  ],
-  "insight_of_day": "While macroeconomic optimism fuels market gains and sectoral growth in healthcare and cloud engineering, systemic skill demands rise even as traditional tech hiring stalls, reflecting a nuanced labor market unevenly benefiting specialized roles."
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Positive Market Sentiment Post US-China Summit",
+        "explanation": "Following the US-China summit, market optimism has increased, potentially encouraging tech sector investments and hiring."
+      },
+      {
+        "title": "Healthcare Driving Net Job Growth",
+        "explanation": "Healthcare remains the primary driver of net employment growth in the US, positively influencing related tech support and innovation roles."
+      },
+      {
+        "title": "Remote and Specialized Roles Expanding",
+        "explanation": "Job postings for senior and specialized technical roles like database reliability and AI legal specialists indicate sustained demand for expertise."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Overall Hiring Rates Below Pre-Pandemic Levels",
+        "explanation": "US hiring rates are 16% lower compared to 2019, showing ongoing caution in workforce expansion despite market optimism."
+      },
+      {
+        "title": "National Hiring Slowdown Observed",
+        "explanation": "According to LinkedIn data, national hiring slowed by 4.6% in April, signaling a cooling labor market in tech and other sectors."
+      },
+      {
+        "title": "Continued High Tech Layoff Rates",
+        "explanation": "Tech sector experiences daily layoffs averaging 864, indicating ongoing platform-specific disruptions despite macroeconomic gains."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Government Initiatives to Reduce Youth Unemployment",
+        "explanation": "New UK government subsidies for business hiring are expected to boost tech job creation, especially for younger workers entering the market."
+      },
+      {
+        "title": "Growth in Technical Support and Management Roles",
+        "explanation": "Job postings show an increase in support technician and management roles incorporating security and healthcare tech, reflecting sector diversification."
+      },
+      {
+        "title": "Encouragement of Remote and Hybrid Roles",
+        "explanation": "Evident trend towards remote-friendly senior and consulting jobs supports flexible working models, attracting a wider tech workforce."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Recruitment Challenges Persist",
+        "explanation": "Despite initiatives, structural challenges around matching candidates to specialized tech positions remain a limiting factor for rapid growth."
+      },
+      {
+        "title": "Layoff Pressure Similar to Global Tech Trends",
+        "explanation": "UK tech sector mirrors global layoff trends, negatively impacting confidence and hiring momentum in key tech hubs."
+      },
+      {
+        "title": "Uncertainties in Post-Brexit Regulatory Environment",
+        "explanation": "Uncertainties continue to affect hiring decisions for senior international tech roles due to evolving trade and data regulation rules."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Strong Tech Hiring Momentum in Germany and Netherlands",
+        "explanation": "LinkedIn signals buoyant tech hiring markets particularly in Germany and Netherlands with a notable 15% rise in specialized AI roles."
+      },
+      {
+        "title": "Increase in Specialized AI and Data Engineering Roles",
+        "explanation": "Growth in niche fields like AI system development and backend engineering suggests a move towards advanced tech capabilities in key EU markets."
+      },
+      {
+        "title": "Rising Adoption of Remote and Hybrid Work Models",
+        "explanation": "RemoteOK job postings indicate sustained availability of senior and platform engineering roles accommodating digital nomad trends."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Fragmented Market Regulation Impacting Cross-Border Hiring",
+        "explanation": "Divergent regulations across EU countries continue to challenge unified talent mobility, restricting tech recruitment efficiency."
+      },
+      {
+        "title": "Platform-Specific Slowdowns Despite Overall Growth",
+        "explanation": "Some European remote job boards report slower growth in platform-specific sectors, revealing uneven recovery within the tech ecosystem."
+      },
+      {
+        "title": "Persistent Skills Shortages in Emerging Tech Domains",
+        "explanation": "Despite strong demand, shortage of system thinking and highly specialized AI skills creates bottlenecks constraining rapid scaling."
+      }
+    ]
+  },
+  "insight_of_day": "While macroeconomic indicators and government initiatives fuel tech sector growth across US, UK, and EU, the reality on hiring platforms and internal layoffs reveals persistent friction. This tension between broad market optimism and platform-specific slowdowns underscores a cautious hiring environment with selective role expansions rather than wide-scale tech workforce growth."
 }
