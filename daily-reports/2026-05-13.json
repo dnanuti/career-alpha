@@ -1,31 +1,93 @@
 {
-  "positive_trends": [
-    {
-      "title": "Rising Demand for Senior Technical and Engineering Roles with Cloud and SaaS Expertise",
-      "explanation": "Job postings prominently feature senior-level software engineers, golang developers, and platform engineers skilled in cloud, SaaS, backend architecture, and reliability engineering, indicating ongoing growth in specialized technical roles that support scalable digital infrastructure."
-    },
-    {
-      "title": "Growth in Health and Medical-Related Operational and Support Positions",
-      "explanation": "Multiple job postings emphasize roles linked to health, healthcare, medical editing, and population health operations, reflecting a continued expansion of health sector employment, likely buoyed by macroeconomic stability and healthcare digitization trends."
-    },
-    {
-      "title": "Emergence of Hybrid Technical and Sales Leadership Roles Focused on SaaS and DTC E-Commerce",
-      "explanation": "Positions such as Senior CRO Manager for DTC companies, Sales Engineer, and Director of Enterprise Sales highlight a growing need for leaders who combine technical, sales, and growth expertise, particularly in SaaS and e-commerce sectors, underscoring the emphasis on revenue growth and customer acquisition."
-    }
-  ],
-  "negative_trends": [
-    {
-      "title": "Overall National Hiring Slowdown Despite Sector-Specific Job Growth",
-      "explanation": "LinkedIn reports a 4.6% national hiring slowdown in April alongside daily tech layoffs, indicating cautious macro hiring trends that contrast with isolated pockets of job market growth seen in remote job boards and economic news."
-    },
-    {
-      "title": "Persistent Tech Sector Layoffs and Job Uncertainty",
-      "explanation": "Recurring tech sector layoffs averaging 864 daily suggest volatility and restructuring within tech companies, dampening confidence and slowing broader hiring, despite select senior technical roles being open."
-    },
-    {
-      "title": "Limited Growth in Entry-Level and Support Technician Roles",
-      "explanation": "While senior and managerial roles see growth, there is a lack of strong signals for increased hiring in junior or support-focused positions, consistent with LinkedIn’s indication that systemic thinking skills are growing, a sign that higher cognitive and strategic competencies are preferred over routine roles."
-    }
-  ],
-  "insight_of_day": "The 2026 job market is bifurcated: robust demand for senior technical talent and hybrid leadership in high-growth SaaS and health sectors contrasts sharply with a broader national hiring slowdown and ongoing layoffs, signaling a selective talent market focused on strategic, high-impact skills."
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Resilience in Tech Stocks",
+        "explanation": "Markets showed a bounce back in tech stocks ahead of key Producer Price Index data, indicating investor confidence and potential capital availability for tech ventures."
+      },
+      {
+        "title": "Manufacturing Job Growth",
+        "explanation": "Q1 2026 reported manufacturing job growth for the first time since 2023 suggests a strengthening industrial base that supports tech hardware and infrastructure employment."
+      },
+      {
+        "title": "High Demand for Specialized and Senior Roles",
+        "explanation": "Job postings indicate robust demand for senior level and specialized technical professionals including senior database reliability engineers, solution architects, and software engineers, especially those with cloud and SaaS expertise."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Overall National Hiring Slowdown",
+        "explanation": "LinkedIn reports a 4.6% slowdown in US national hiring in April, reflecting cautious employer behavior despite some sectoral growth."
+      },
+      {
+        "title": "High Daily Tech Layoffs",
+        "explanation": "Global averages of 864 daily tech layoffs point to ongoing platform-specific contractions and restructuring, which impact overall hiring momentum in US tech firms."
+      },
+      {
+        "title": "Reduced Early Career and Support Role Opportunities",
+        "explanation": "While senior roles are growing, there is an observable compression in entry-level and purely support-focused technical roles due to automation and AI-driven efficiencies."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Robust Demand for Cross-Functional Managers",
+        "explanation": "Job signals show demand for managers skilled in growth, marketing, and health tech, revealing a diversification of tech-related roles supporting digital transformation."
+      },
+      {
+        "title": "Growth in Tech-Enabled Legal and Compliance Roles",
+        "explanation": "There is an uptick in tech roles intersecting with legal operations and compliance, driven by evolving regulation and data governance needs post-Brexit."
+      },
+      {
+        "title": "Increased Remote Work Opportunities",
+        "explanation": "Listings emphasize roles tagged as 'digital nomad' or remote-friendly, indicating continued expansion of flexible work arrangements in UK tech market."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Platform-Specific Hiring Plateaus",
+        "explanation": "Despite broader demand, specific tech job boards indicate a leveling off in high-growth platform roles such as cloud engineering and backend specialists."
+      },
+      {
+        "title": "Moderate Hiring Caution Amid Economic Uncertainties",
+        "explanation": "LinkedIn data and economic news point to employer hesitancy amid macroeconomic pressures, creating slower hiring cycles compared with previous quarters."
+      },
+      {
+        "title": "Stagnation in Entry-Level Technical Roles",
+        "explanation": "Demand for non-senior or junior technical roles is plateauing, with companies prioritizing senior hires to drive strategy and innovation over ramping up junior technical teams."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Strong Tech Hiring in Germany and Netherlands",
+        "explanation": "LinkedIn reports buoyancy in tech hiring in these hubs, particularly for specialized AI roles which have seen a 15% increase, signaling robust regional AI investment and innovation."
+      },
+      {
+        "title": "Growth in High-Level Engineering and Support Positions",
+        "explanation": "Job data show demand for senior software engineers, platform engineering managers, and technical support specialists, underscoring a mature, evolving tech workforce."
+      },
+      {
+        "title": "Rising Demand for AI and Systems Thinking Skills",
+        "explanation": "Emerging focus on systemic thinking and AI-related technical roles indicates a strategic shift to complex problem solving and advanced technology adoption across the EU."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Uneven Market Recovery Across Regions",
+        "explanation": "While Germany and Netherlands show strength, other EU nations experience slower tech hiring recovery due to economic and regulatory uncertainties."
+      },
+      {
+        "title": "Platform-Specific Slowdowns Impact Specialized Roles",
+        "explanation": "Certain tech platforms and remote-specific job boards reflect a plateau in hiring for niche backend and cloud roles, signaling market saturation or retrenchment."
+      },
+      {
+        "title": "Persistent Challenges in Entry-Level Tech Positions",
+        "explanation": "Consistent with US and UK trends, early career specialist roles remain under pressure, with employers favoring experienced professionals amid cautious investment."
+      }
+    ]
+  },
+  "insight_of_day": "Across the US, UK, and EU tech markets, despite the macroeconomic signals pointing to growth and resilience—especially in senior and specialized AI-related roles—there is a clear divergence caused by platform-driven slowdowns and persistent caution in early career hiring. This tension highlights how broad economic gains are tempered by structural shifts and employer selectivity within specific platforms and job categories."
 }
