@@ -1,0 +1,31 @@
+{
+  "positive_trends": [
+    {
+      "title": "Rising demand for senior and leadership roles in tech and health sectors",
+      "explanation": "Job postings show increased openings for senior engineers, managers, and executives in SaaS, healthcare, and platform engineering, reflecting organizational focus on experienced leadership amidst growth areas."
+    },
+    {
+      "title": "Emergence of Systemic Thinking as a critical skill",
+      "explanation": "LinkedIn highlights Systemic Thinking as a top growing skill, aligning with complex operational and strategic roles seen in job listings emphasizing growth, support, and cross-functional leadership."
+    },
+    {
+      "title": "Stability in manufacturing and positive consumer sentiment",
+      "explanation": "Global economic news points to a slight uptick in industrial production and improved consumer sentiment, suggesting a more stable macroeconomic environment that supports ongoing hiring in tech-augmented manufacturing and related sectors."
+    }
+  ],
+  "negative_trends": [
+    {
+      "title": "National hiring slowdown in tech sector",
+      "explanation": "LinkedIn reports a 4.6% national hiring slowdown in April and consistent tech layoffs averaging 864 daily, signaling contraction pressure despite isolated growth signals in senior roles."
+    },
+    {
+      "title": "Talent acquisition challenges amidst skill gaps",
+      "explanation": "Despite abundant job postings demanding advanced skills like cloud, backend, and SaaS expertise, LinkedIn data indicates systemic skill shortages slowing broader recruitment efforts."
+    },
+    {
+      "title": "Tension between platform-specific slowdowns and aggregate hiring gains",
+      "explanation": "While macro news shows economic stability and demand in specific niches, LinkedIn hiring metrics reveal platform-wide slowdowns, reflecting cautious employer sentiment and more selective hiring practices."
+    }
+  ],
+  "insight_of_day": "The 2026 hiring landscape is bifurcated: high-level roles in strategic tech and healthcare flourish amid broad hiring contraction, driven by evolving skill demands and cautious corporate strategies."
+}
