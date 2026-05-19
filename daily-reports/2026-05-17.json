@@ -1,0 +1,31 @@
+{
+  "positive_trends": [
+    {
+      "title": "Rising demand for Engineering and Technical Leadership roles",
+      "explanation": "Job postings show growth for senior engineering roles such as Senior Database Reliability Engineer, Staff Engineer Platform Engineering, and Senior AI System Software Developer, highlighting sustained need for senior technical leadership despite broader hiring slowdowns."
+    },
+    {
+      "title": "Increased focus on AI, Systemic Thinking, and SaaS-related skills",
+      "explanation": "LinkedIn identified Systemic Thinking as a top growing skill, and job listings emphasize AI, system design, SaaS, and cloud architecture expertise, reflecting adaptation to AI-driven transformation across industries."
+    },
+    {
+      "title": "Sustained growth in healthcare and health-related operational roles",
+      "explanation": "Multiple roles tagged with 'health', 'medical', and 'healthcare', including clinical marketing, population health, and medical editors, reveal ongoing demand for healthcare operations and support professionals amid economic stability."
+    }
+  ],
+  "negative_trends": [
+    {
+      "title": "Tech sector layoffs and slowing national hiring",
+      "explanation": "LinkedIn reports an average of 864 daily tech layoffs and a 4.6% decline in overall national hiring for April, indicating a contraction in tech employment despite stable macroeconomic jobless claims."
+    },
+    {
+      "title": "Decreasing momentum for junior and non-technical roles in tech",
+      "explanation": "Job adverts lean heavily towards senior, leadership, or highly technical roles, with fewer entry-level or junior positions, suggesting tightening hiring and reduced investment in early-career tech talent."
+    },
+    {
+      "title": "Platform-specific hiring slowdowns despite aggregate market stability",
+      "explanation": "While economic news indicates labor market stability, LinkedIn workforce data and tech-specific layoffs signal localized hiring freezes and cuts, highlighting tensions between general labor stability and sector-specific weakness."
+    }
+  ],
+  "insight_of_day": "In 2026, the labor market is bifurcated: stable macro hiring supports senior and AI-driven roles, but tech sector layoffs and hiring slowdowns pressure junior positions and non-technical functions, revealing a strategic pivot toward experience and adaptability in the evolving AI economy."
+}
