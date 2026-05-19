@@ -1,31 +1,31 @@
 {
   "positive_trends": [
     {
-      "title": "Rising Demand for Senior and Leadership Roles in Tech and Health Sectors",
-      "explanation": "Aggregated job postings show increased openings for senior engineers, managers, and director-level roles across software engineering, platform engineering, and health-related fields, reflecting a focus on experienced leadership in critical growth areas despite broader hiring slowdowns."
+      "title": "US Market Payroll Growth Momentum",
+      "explanation": "According to Bloomberg and Reuters, the US labor market showed strong gains with payrolls rising 115,000 in April and the largest jobs gain in 15 months in March, accompanied by a falling unemployment rate to 4.3%. Hiring activity remains robust especially in sectors requiring senior software, engineering, and managerial roles as reflected in RemoteOK postings."
     },
     {
-      "title": "Systemic Thinking as a Key Emerging Skill in AI-Driven Roles",
-      "explanation": "LinkedIn identifies systemic thinking as the fastest-growing skill, supported by job tags emphasizing strategic, design, and operational capabilities in AI-related job postings, signaling a shift towards complex problem-solving in hybrid technical-business roles."
+      "title": "Global Tech Sector Demand for Systemic Thinking Skills",
+      "explanation": "LinkedIn's global reports highlight 'Systemic Thinking' as the fastest-growing skill in 2026, reflecting an increasing need for professionals capable of navigating AI-driven transformations. This aligns with job postings emphasizing AI system developers, platform engineering, and AI trainers, signaling hiring increases in advanced tech roles worldwide."
     },
     {
-      "title": "SaaS and Cloud-Native Engineering Roles Maintain Strong Growth",
-      "explanation": "Job market signals highlight continuing demand for backend developers, cloud, API, and reliability engineers especially with SaaS, Golang, and Node.js expertise, aligning with the stable hiring momentum reported in broader economic news."
+      "title": "US E-commerce and SaaS Growth Driving Senior Technical Hiring",
+      "explanation": "RemoteOK job data shows a rise in roles like Senior CRO Manager, Sr Solution Architect, and SaaS Product Manager specifically targeting US companies in e-commerce and SaaS sectors. This trend corresponds with Bloomberg’s report on strong US job growth and indicates rising demand for digital transformation and growth optimization expertise in the US market."
     }
   ],
   "negative_trends": [
     {
-      "title": "Overall National Hiring Slowdown Including in Tech Sector",
-      "explanation": "LinkedIn reports a 4.6% deceleration in hiring nationally for April and ongoing daily tech layoffs, indicating platform-specific contractions contrasting with macro payroll growth, underlying increased volatility in tech employment."
+      "title": "US Market Hiring Slowdown Detected on LinkedIn Platform",
+      "explanation": "Despite positive payroll gains reported by news outlets, LinkedIn’s US Workforce Report signals a 4.6% decline in national hiring in April compared to March and a 6.9% year-over-year drop. This suggests a disconnect between aggregate job growth and actual platform-specific hiring activity, possibly reflecting selective or delayed recruitment in some sectors."
     },
     {
-      "title": "Softening Demand for Entry-Level and Non-Technical Support Roles",
-      "explanation": "Despite abundant senior-level positions, postings show reduced emphasis on junior roles and non-technical support jobs, reflecting cautious employer approaches to early-career or auxiliary hires amid economic uncertainty."
+      "title": "Global Tech Sector Facing Persistent Job Cuts",
+      "explanation": "LinkedIn data reveals an average of 864 daily tech worker job losses worldwide in 2026 despite continuous high-level payroll increases reported globally. This indicates ongoing structural shifts and layoffs within the tech industry, highlighting instability and role disruption even amid broader economic growth signals."
     },
     {
-      "title": "Volatility in Tech Hiring Amid Economic Unevenness",
-      "explanation": "Though Bloomberg reports solid overall payroll growth, tech-specific employment remains unstable with persistent layoffs and fluctuating demand, suggesting sectoral tensions within the labor market and uneven recovery."
+      "title": "UK Economy Growth Forecast Cut Amid Global Uncertainty",
+      "explanation": "The IMF’s downgrade of the UK growth forecast as reported by BBC points toward subdued hiring prospects in the UK economy. Regional labor markets may face tighter conditions with cautious employer sentiment, reducing demand especially in mid-level non-technical and operational roles."
     }
   ],
-  "insight_of_day": "The labor market in 2026-05 highlights a paradox: while senior, strategic, and AI-complementary skills surge in tech and health sectors, overall hiring momentum slows—demand shifts towards depth and complexity over volume, reflecting market prudence amid growth volatility."
+  "insight_of_day": "The US labor market is growing on paper with payroll increases, yet LinkedIn reveals a selective hiring slowdown and tech layoffs, underscoring that headline job gains mask nuanced sectoral and platform-specific divergences."
 }
