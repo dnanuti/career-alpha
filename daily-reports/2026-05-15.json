@@ -1,31 +1,93 @@
 {
-  "positive_trends": [
-    {
-      "title": "Rising demand for senior and leadership roles in tech and health sectors",
-      "explanation": "Job postings show increased openings for senior engineers, managers, and executives in SaaS, healthcare, and platform engineering, reflecting organizational focus on experienced leadership amidst growth areas."
-    },
-    {
-      "title": "Emergence of Systemic Thinking as a critical skill",
-      "explanation": "LinkedIn highlights Systemic Thinking as a top growing skill, aligning with complex operational and strategic roles seen in job listings emphasizing growth, support, and cross-functional leadership."
-    },
-    {
-      "title": "Stability in manufacturing and positive consumer sentiment",
-      "explanation": "Global economic news points to a slight uptick in industrial production and improved consumer sentiment, suggesting a more stable macroeconomic environment that supports ongoing hiring in tech-augmented manufacturing and related sectors."
-    }
-  ],
-  "negative_trends": [
-    {
-      "title": "National hiring slowdown in tech sector",
-      "explanation": "LinkedIn reports a 4.6% national hiring slowdown in April and consistent tech layoffs averaging 864 daily, signaling contraction pressure despite isolated growth signals in senior roles."
-    },
-    {
-      "title": "Talent acquisition challenges amidst skill gaps",
-      "explanation": "Despite abundant job postings demanding advanced skills like cloud, backend, and SaaS expertise, LinkedIn data indicates systemic skill shortages slowing broader recruitment efforts."
-    },
-    {
-      "title": "Tension between platform-specific slowdowns and aggregate hiring gains",
-      "explanation": "While macro news shows economic stability and demand in specific niches, LinkedIn hiring metrics reveal platform-wide slowdowns, reflecting cautious employer sentiment and more selective hiring practices."
-    }
-  ],
-  "insight_of_day": "The 2026 hiring landscape is bifurcated: high-level roles in strategic tech and healthcare flourish amid broad hiring contraction, driven by evolving skill demands and cautious corporate strategies."
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Manufacturing Stability Supports Tech Hardware Demand",
+        "explanation": "Industrial production in the US shows a slight uptick indicating manufacturing stability, which underpins demand for tech hardware components and related engineering roles."
+      },
+      {
+        "title": "Growth in Specialized SaaS and Cloud Engineering Roles",
+        "explanation": "Job postings spotlight strong demand for senior software engineers, platform engineers, and cloud infrastructure roles, especially with SaaS expertise, reflecting ongoing investment in cloud technologies."
+      },
+      {
+        "title": "Persistent Demand for Security and Reliability Engineers",
+        "explanation": "There is a steady need for roles focused on security, reliability, and operational engineering, highlighting enterprise focus on resilience and compliance amidst evolving cyber threats."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Overall Hiring Slowdown by 4.6% in April",
+        "explanation": "LinkedIn data indicates US national hiring slowed 4.6%, reflecting cautious employer stance and a possible contraction phase impacting broad tech employment growth."
+      },
+      {
+        "title": "High Frequency of Tech Sector Layoffs",
+        "explanation": "Global tech layoffs average 864 daily in 2026, signaling platform-specific downsizing pressures that also weigh on US tech job security despite macroeconomic resilience."
+      },
+      {
+        "title": "Reduced Remote Job Postings in Entry-Level and Support Roles",
+        "explanation": "Remote job board data highlights fewer new postings for junior and support technician positions, suggesting companies are holding back on expanding early-career hiring remotely."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Growing Demand for SaaS and Cloud Leadership Roles",
+        "explanation": "Senior management and director roles in SaaS, cloud, and platform engineering indicate continuing strategic investments in cloud transformation in UK firms."
+      },
+      {
+        "title": "Expansion of Legal-Tech and Compliance Job Postings",
+        "explanation": "Increasing jobs in contract management and legal operations signal a rise in regulatory compliance importance within the UK tech ecosystem."
+      },
+      {
+        "title": "Marketing and Growth Strategy Roles Showing Robust Hiring",
+        "explanation": "Strong hiring trends for growth managers, digital marketing, and customer experience roles emphasize UK tech firms prioritizing market expansion and customer retention."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Slowing Momentum in Junior Technical Hiring",
+        "explanation": "Remote job board signals a drop in junior developer and support technical roles, reflecting tightening budgets and selective hiring at entry levels."
+      },
+      {
+        "title": "Pressure on Platform-Specific Hiring Amid Broader Economic Uncertainty",
+        "explanation": "Despite macroeconomic optimism, some UK tech platforms report slower hiring and higher layoffs, signaling platform-specific restructuring."
+      },
+      {
+        "title": "Lagging Growth in AI Specialist Roles Compared to EU Peers",
+        "explanation": "Unlike Germany and Netherlands, UK shows slower growth in specialized AI roles, raising concerns about competitive positioning in emerging tech domains."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Strong Hiring Buoyancy in Germany and Netherlands",
+        "explanation": "LinkedIn reports a 15% increase in specialized AI roles in Germany and the Netherlands, highlighting regional leadership in advanced tech recruiting."
+      },
+      {
+        "title": "Rising Focus on Systemic Thinking and Cross-Functional Skills",
+        "explanation": "Systemic Thinking emerges as a top growing skill globally, reflected in EU job postings emphasizing integrated problem-solving capabilities."
+      },
+      {
+        "title": "International Tech Trade Agreements Stimulate Market Access",
+        "explanation": "Global trade discussions focused on technology exchange open new market opportunities for EU tech firms, driving recruitment and innovation."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Ongoing Tech Layoffs Create Talent Market Fragmentation",
+        "explanation": "Despite hiring in some hubs, widespread layoffs averaging 864 daily globally affect EU, causing uncertainty and workforce churn."
+      },
+      {
+        "title": "Sectoral Imbalance Between AI Hubs and Peripheral Regions",
+        "explanation": "Concentration of AI and specialized roles in a few countries contrasts with slower hiring and tech activity in peripheral EU markets."
+      },
+      {
+        "title": "Challenges in Scaling Junior and Mid-Level Tech Talent",
+        "explanation": "Job data reveals constrained hiring at junior levels across EU markets, potentially limiting pipeline development for future growth."
+      }
+    ]
+  },
+  "insight_of_day": "Tech labor markets on 2026-05-15 reveal a strong contrast where macroeconomic signals of growth and stability coexist with platform-specific hiring slowdowns and layoffs, emphasizing a bifurcated labor market landscape across US, UK, and EU regions."
 }
