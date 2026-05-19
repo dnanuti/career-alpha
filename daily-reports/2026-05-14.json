@@ -1,31 +1,93 @@
 {
-  "positive_trends": [
-    {
-      "title": "Rising demand for senior and leadership roles in tech and health sectors",
-      "explanation": "Job postings show strong openings for senior engineers, managers, directors, and executives across software engineering, platform engineering, biostatistics, and healthcare management roles, indicating a continued need for experienced leaders in growth and operational positions."
-    },
-    {
-      "title": "Growth in specialized technical skills: Golang, cloud, reliability engineering",
-      "explanation": "A notable cluster of listings for Golang developers, cloud engineers, and roles emphasizing operational reliability and backend engineering suggest that organizations are prioritizing scalable, robust infrastructure and modern backend technologies."
-    },
-    {
-      "title": "Increased hiring for roles integrating AI, legal tech, and sales strategy",
-      "explanation": "Emerging job titles such as US Tax Law AI Specialist, AI system software developers, and senior sales engineers with AI/technical support backgrounds reflect rising adoption of AI in compliance, software, and revenue functions."
-    }
-  ],
-  "negative_trends": [
-    {
-      "title": "Overall national hiring slowdown and tech sector layoffs",
-      "explanation": "LinkedIn data shows a 4.6% decline in national hiring with daily tech layoffs averaging 864, highlighting ongoing headwinds in the broader tech employment landscape despite sector-specific growth pockets."
-    },
-    {
-      "title": "Disparity between remote job board openings and LinkedIn hiring metrics",
-      "explanation": "While aggregated remote job postings remain numerous, LinkedIn’s workforce reports reflect slowed hiring activity, suggesting platform-specific hiring contractions or a lag in converting postings into hires, possibly due to macroeconomic uncertainties."
-    },
-    {
-      "title": "Geopolitical tensions contributing to cautious hiring outlook",
-      "explanation": "IMF warnings about global economic course corrections amid geopolitical risks imply companies may adopt more conservative hiring and investment strategies, impacting labor market momentum."
-    }
-  ],
-  "insight_of_day": "Despite macroeconomic inflation easing and robust retail growth, the labor market faces tension: tech and specialized senior roles expand, yet national hiring and tech sector jobs contract, signaling a bifurcated employment recovery reliant on skill specialization and strategic leadership."
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Cooling Inflation Eases Labor Cost Pressure",
+        "explanation": "Producer Price Index (PPI) data indicates easing inflation which can relieve employer cost burdens, potentially stabilizing tech hiring budgets."
+      },
+      {
+        "title": "Strong Consumer Demand Supports Tech Growth",
+        "explanation": "Retail sales growth exceeding expectations signals robust consumer spending that could sustain demand for tech-enabled retail and e-commerce solutions."
+      },
+      {
+        "title": "Expansion in Specialized Tech Roles",
+        "explanation": "Emerging roles such as AI specialists and senior engineers remain in demand, supported by remote-friendly postings emphasizing cloud, backend, and reliability engineering."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "US National Hiring Slowed by 4.6% in April",
+        "explanation": "LinkedIn reports a significant slowdown in national hiring momentum, reflecting potential caution from employers amid uncertain macroeconomic conditions."
+      },
+      {
+        "title": "High Tech Layoff Rates Persist",
+        "explanation": "Tech sector layoffs averaging 864 per day globally contribute to market uncertainty and heightened competition for open tech positions in the US."
+      },
+      {
+        "title": "Platform-Specific Slowdowns in Remote Job Postings",
+        "explanation": "Despite macro positives, aggregated remote job board data shows flat or slightly declining postings in core US tech hubs, indicating platform-specific hiring slowdowns."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Steady Demand for Tech Support and SaaS Roles",
+        "explanation": "Remote job data reflects consistent openings in SaaS, technical support, and managerial roles, underpinning a resilient UK tech services segment."
+      },
+      {
+        "title": "Growing Focus on Security and Compliance",
+        "explanation": "Tags related to security, legal support, and compliance roles point to heightened investment in regulatory and cybersecurity capabilities."
+      },
+      {
+        "title": "IMF's Global Economic Course Correction Could Stabilize UK Economy",
+        "explanation": "While cautionary, IMF warnings also indicate potential for policy adjustments favoring tech sector funding and innovation incentives."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Geopolitical Tensions Weigh on UK Tech Investment",
+        "explanation": "Ongoing geopolitical instability creates uncertainty that may delay large-scale tech investments or expansions in the UK market."
+      },
+      {
+        "title": "Competitive Pressure Reduces Mid-Level Hiring Momentum",
+        "explanation": "Mid-level positions show slower growth compared to senior or entry roles, reflecting cautious hiring strategies among UK tech employers."
+      },
+      {
+        "title": "Platform-Specific Slowdowns Evident in Remote Job Postings",
+        "explanation": "Similar to the US, remote tech job boards indicate a relative flattening of new postings in the UK, suggesting platform-level hiring deceleration despite sector resilience."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Tech Hiring Buoyancy in Germany and Netherlands",
+        "explanation": "LinkedIn data highlights strong tech hiring momentum in key EU markets like Germany and the Netherlands, especially for specialized AI roles rising 15%."
+      },
+      {
+        "title": "Increased Demand for Cloud and Backend Engineers",
+        "explanation": "Job tags emphasize continued recruitment for backend, cloud, and platform engineering roles, underpinning digital infrastructure growth."
+      },
+      {
+        "title": "Specialized AI and Systemic Thinking Skills in High Demand",
+        "explanation": "Systemic thinking tops skill growth charts globally, aligning with a surge in specialized AI tech roles across the EU tech ecosystems."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Macro-Geopolitical Risks Create Hiring Uncertainty",
+        "explanation": "EU tech markets remain exposed to geopolitical risks highlighted by global economic forecasts, possibly tempering hiring aggressiveness."
+      },
+      {
+        "title": "Global Tech Layoffs Impact EU Talent Market",
+        "explanation": "Ongoing high layoffs in the global tech sector spill over into EU markets, increasing talent supply but also signaling potential instability."
+      },
+      {
+        "title": "Platform-Specific Hiring Slowdowns Despite Regional Growth",
+        "explanation": "Remote job board signals show that some EU countries experience slower hiring on specific platforms, indicating discrepancies between macro hiring optimism and channel-specific demand."
+      }
+    ]
+  },
+  "insight_of_day": "Across the US, UK, and EU, macroeconomic signals indicate cautious optimism with easing inflation and sectoral growth in specialized tech roles; however, persistent platform-specific hiring slowdowns and high global tech layoffs highlight an ongoing tension between economic gains and market-specific hiring challenges."
 }
