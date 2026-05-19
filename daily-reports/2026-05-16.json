@@ -1,31 +1,93 @@
 {
-  "positive_trends": [
-    {
-      "title": "Rising Demand for Specialized Engineering Roles",
-      "explanation": "Job postings show strong demand for senior and staff-level engineering positions, particularly in backend, platform, and reliability engineering with expertise in Golang, cloud, and system design. This aligns with macroeconomic tech hiring optimism despite LinkedIn slowdown signals."
-    },
-    {
-      "title": "Growth in Healthcare and Medical Support Roles",
-      "explanation": "There is increased hiring in healthcare-related support and managerial roles, including population health executives and medical editors. This reflects continued sector resilience amid broader economic uncertainty."
-    },
-    {
-      "title": "Emergence of Systemic Thinking and Strategic Skills",
-      "explanation": "LinkedIn identifies Systemic Thinking as a top growing skill, corroborated by job postings seeking leaders and analysts with strong strategic, operational, and system design capabilities, showing a shift towards complex problem-solving roles."
-    }
-  ],
-  "negative_trends": [
-    {
-      "title": "Decline in General Tech Hiring Velocity",
-      "explanation": "LinkedIn Workforce Reports national hiring slowed by 4.6% with persistent daily tech layoffs, signaling caution across overall tech employment despite some niche demand."
-    },
-    {
-      "title": "Cooling Housing Market Impact on Real Estate and Financial Roles",
-      "explanation": "News of elevated interest rates cooling housing activity likely affects financial and operational roles tied to real estate markets and consumer lending services, reflected by fewer postings and economic uncertainty."
-    },
-    {
-      "title": "Mixed Signals for Remote and Junior-Level Hiring",
-      "explanation": "While senior and specialized positions grow, digital nomad and junior roles face slowdown, possibly due to employers focusing budgets on critical hires amid macroeconomic caution and platform hiring contraction."
-    }
-  ],
-  "insight_of_day": "Despite broad hiring slowdowns and economic headwinds, recruitment targets sharply prioritize senior engineers with systemic and strategic skills, especially in healthcare and resilient tech domains, signaling a bifurcated market of cautious volume but intensified expertise focus."
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Sustained Demand in Senior and Specialized Tech Roles",
+        "explanation": "Jobs for senior engineers, solution architects, and specialists in AI and database reliability remain available, reflecting steady demand for advanced technical expertise."
+      },
+      {
+        "title": "Growth in Remote Work Opportunities",
+        "explanation": "Remote-friendly roles, including digital nomad positions, continue to be prominent, enabling geographic flexibility and access to broader talent pools."
+      },
+      {
+        "title": "Emergence of AI-Related Positions",
+        "explanation": "Specialist roles such as US Tax Law AI Specialist and AI system software developers indicate growing adoption of AI technologies in traditional and tech domains."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Overall Hiring Slowdown",
+        "explanation": "LinkedIn reports a 4.6% national hiring slowdown in April, reflecting cautious hiring amid economic uncertainty."
+      },
+      {
+        "title": "Elevated Interest Rates Cooling Housing Market",
+        "explanation": "Bloomberg signals cooling in the housing market due to high interest rates, which indirectly pressures tech sector job growth as consumer spending and relocation slow."
+      },
+      {
+        "title": "High Frequency of Daily Tech Layoffs",
+        "explanation": "Global LinkedIn data shows tech sector layoffs average 864 daily, indicating ongoing restructuring and cost-cutting within US tech firms."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Impact of US-China Summit Offers Strategic Clarity",
+        "explanation": "BBC report suggests UK tech firms may benefit from geopolitical shifts, potentially unlocking new partnerships and investment flows post US-China summit."
+      },
+      {
+        "title": "Continued Roles in Technical Support and Cloud Engineering",
+        "explanation": "The job market sustains demand for skilled support engineers and cloud-related roles, reflecting ongoing digital transformation and infrastructure upgrades."
+      },
+      {
+        "title": "Growth in Hybrid and Remote Management Positions",
+        "explanation": "Managerial roles with remote and hybrid work flexibility are increasingly advertised, aligning with evolving work culture preferences."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Global Tech Layoffs Impact UK Market Sentiment",
+        "explanation": "The global average of 864 daily tech layoffs creates uncertainty and may contribute to slower hiring decisions among UK tech employers."
+      },
+      {
+        "title": "UK Economic Pressures from International Uncertainty",
+        "explanation": "Ongoing geopolitical and economic challenges create cautious spending and hiring, affecting medium-term tech sector growth."
+      },
+      {
+        "title": "Platform-Specific Slowdowns on Remote Job Boards",
+        "explanation": "Despite strong macroeconomic signals, remote job platform listings show signs of fewer high-skill UK tech roles, suggesting selective hiring or shifting focus."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Robust Tech Hiring in Germany and Netherlands",
+        "explanation": "LinkedIn reports buoyant tech hiring with a 15% rise in specialized AI roles, indicating strong regional demand for advanced technology skills."
+      },
+      {
+        "title": "Investment in AI and Specialized Software Roles",
+        "explanation": "The job market reflects focus on AI and software engineering expertise, supported by EU green and digital transition funding."
+      },
+      {
+        "title": "Sustained Demand for Operational and Support Tech Positions",
+        "explanation": "Positions in technical support, operational analytics, and platform engineering signal steady infrastructure development and digital adoption."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Energy Price Volatility Threatens Tech Sector Cost Stability",
+        "explanation": "Reuters highlights energy price fluctuations amid Middle East conflicts, posing risks to operational costs for energy-dependent EU tech firms."
+      },
+      {
+        "title": "Potential Hiring Hesitancy Due to Geopolitical Uncertainty",
+        "explanation": "Ongoing geopolitical risks in EU/Global context may temp hiring acceleration despite current pockets of strength."
+      },
+      {
+        "title": "Platform-Specific Concentration Limits Broader Market Access",
+        "explanation": "Remote job boards show concentration in fewer EU tech hubs, potentially reducing visibility and opportunity for candidates and employers in less central regions."
+      }
+    ]
+  },
+  "insight_of_day": "While macroeconomic signals in the US, UK, and EU tech markets demonstrate pockets of growth—especially in AI specialization and remote work—underlying platform-specific slowdowns and global uncertainties are creating caution in hiring strategies, reflecting a careful balance between expansion and risk mitigation across regions."
 }
