@@ -1,0 +1,93 @@
+{
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "AI Economy Driving Blue-Collar Worker Opportunities",
+        "explanation": "According to CNBC, the AI economy is reshaping the American Dream and creating new opportunities for blue-collar workers, indicating tech-driven growth beyond traditional tech roles."
+      },
+      {
+        "title": "Startup Unicorn Status Achieved by High-Profile Founder",
+        "explanation": "A startup backed by the CEO of American Eagle reached unicorn status in a recent funding round, signaling continued venture capital interest and innovation in the US tech ecosystem."
+      },
+      {
+        "title": "Core Retail Shopper Resilience Supports Tech-Driven Omni-Channel Growth",
+        "explanation": "Home Depot's sales rose 5% despite higher gas prices, suggesting consumer resilience that could support growth in retail tech, supply chain tech, and e-commerce technology jobs."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "National Hiring Slowdown Evident in April 2026",
+        "explanation": "LinkedIn reports a 4.6% hiring slowdown in April compared to March, and a 6.9% decrease year-over-year, indicating a cautious US labor market despite positive signals."
+      },
+      {
+        "title": "Persistent Tech Layoffs Despite Payroll Gains",
+        "explanation": "LinkedIn data shows an average of 864 tech workers lose jobs daily in 2026, highlighting platform-specific layoffs even as some payroll growth is reported."
+      },
+      {
+        "title": "Mortgage Rate Surge Increasing Economic Uncertainty",
+        "explanation": "Mortgage rates have surged to the highest level since July, as per CNBC, potentially curbing tech worker mobility and impacting tech recruitment and relocation."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Government Focus on Working Conditions",
+        "explanation": "BBC reports that UK advisers urge setting maximum working temperature rules, reflecting increasing attention to worker welfare which may drive demand for tech solutions in workplace environment monitoring."
+      },
+      {
+        "title": "Google Preparing New Smart Glasses",
+        "explanation": "BBC notes Google is releasing next-gen smart glasses, indicating renewed interest and potential job growth in UK-based augmented reality and wearable tech sectors."
+      },
+      {
+        "title": "NS&I Initiates Victim Contact for Lost Funds Scandal",
+        "explanation": "While not directly tech, this move by NS&I may spur demand for tech roles in cybersecurity and data management within the UK financial services sector."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Rising Cost Pressures in Consumer Sector",
+        "explanation": "Government urging supermarkets to limit food prices signals inflationary pressures that could tighten discretionary tech budgets in retail and related sectors."
+      },
+      {
+        "title": "Fraud Risks Impacting Trust in Online Transactions",
+        "explanation": "BBC reports on 'ghost brokers' selling fake car insurance online targeting young drivers, raising cybersecurity concerns that might temporarily reduce platform trust and tech hiring."
+      },
+      {
+        "title": "Lack of Strong Positive Hiring Signals",
+        "explanation": "Unlike US and EU, there is limited strong evidence from LinkedIn or news data of significant tech hiring acceleration in UK markets today."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Resilient Tech Hiring in Germany and Netherlands",
+        "explanation": "LinkedIn reports that EU tech hiring is showing resilience, especially in Germany and the Netherlands, driven by specialized AI roles growing by 15%."
+      },
+      {
+        "title": "Specialized AI Role Demand Accelerating",
+        "explanation": "The rise in AI-driven skills demand noted globally translates to EU markets where systemic thinking and AI specialization are fueling tech job creation."
+      },
+      {
+        "title": "Steady Demand for Cloud and Backend Engineering Skills",
+        "explanation": "Job postings across EU tech sectors reflect ongoing demand for backend, cloud, and systems engineering roles indicating steady foundational tech employment."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Continued Global Tech Layoffs Impacting EU Markets",
+        "explanation": "Global layoffs averaging 864 tech workers daily per LinkedIn suggest that EU tech companies are not immune to broader platform-specific downsizing pressures."
+      },
+      {
+        "title": "Economic Uncertainties in Broader EU Environment",
+        "explanation": "General macroeconomic instabilities including inflation and energy price concerns might dampen tech hiring despite pockets of sectoral growth."
+      },
+      {
+        "title": "Slowdown in Non-AI Tech Job Growth",
+        "explanation": "Most hiring gains are concentrated in specialized AI roles, with slower growth or flat demand in other traditional tech fields such as front-end or legacy system maintenance."
+      }
+    ]
+  },
+  "insight_of_day": "While the US and EU tech markets exhibit robust macro-level hiring gains driven by AI and specialized skills, persistent platform-specific layoffs and economic headwinds create tensions that temper overall labor market optimism. In contrast, the UK tech sector faces more muted signals, hindered by inflation-driven cost pressures and cybersecurity concerns, underscoring regional divergences in tech market resilience."
+}
