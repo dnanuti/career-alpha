@@ -1,0 +1,93 @@
+{
+  "us_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Retail Sales Boost Consumer Confidence",
+        "explanation": "Target's stronger-than-expected earnings and raised sales outlook indicate recovering consumer spending that could positively influence tech investments."
+      },
+      {
+        "title": "Emergence of AI Skills Demand",
+        "explanation": "LinkedIn identifies 'Systemic Thinking' as the fastest-growing skill in the AI-driven world, suggesting growing demand for AI-related tech expertise."
+      },
+      {
+        "title": "Sustained Hiring Despite Slowdown",
+        "explanation": "Although overall hiring slowed 4.6% in April, the US tech labor market still accommodates talent influx, reflecting ongoing opportunities."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Overall Hiring Slowdown",
+        "explanation": "LinkedIn reports a 4.6% hiring slowdown in April and a 6.9% decline year-over-year indicating cooling momentum in US tech recruitment."
+      },
+      {
+        "title": "High-Tech Layoffs Continue",
+        "explanation": "Despite payroll gains, an average of 864 tech workers lose jobs daily reflecting ongoing instability and restructuring in the sector."
+      },
+      {
+        "title": "Economic Headwinds from Energy and Transportation Issues",
+        "explanation": "High gasoline prices and a sinkhole delaying flights at LaGuardia airport add pressure on consumer spending and logistics affecting tech supply chains."
+      }
+    ]
+  },
+  "uk_tech_market": {
+    "positive_trends": [
+      {
+        "title": "New £3.7bn Trade Deal",
+        "explanation": "UK's trade agreement with six Gulf states has the potential to boost business and tech partnerships enhancing market access and investment."
+      },
+      {
+        "title": "Industry Resilience Amid Energy Concerns",
+        "explanation": "EasyJet and Samsung strikes on hold signal temporary stability allowing tech operations to continue without disruption."
+      },
+      {
+        "title": "Continued Focus on AI Incentives",
+        "explanation": "Samsung workers pushing for additional AI bonuses reflect the growing importance and recognition of AI within tech employment incentives."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Rising Household Costs Limit Spending",
+        "explanation": "PM Reeves' summer savings drive is unlikely to cover higher energy bills, reducing disposable income that could affect tech consumption."
+      },
+      {
+        "title": "Potential Workforce Disruptions from Labor Unrest",
+        "explanation": "Pending or ongoing labor negotiations in tech-related sectors (e.g., Samsung) create uncertainty for tech market stability."
+      },
+      {
+        "title": "Geopolitical Uncertainties",
+        "explanation": "Global tensions and economic adjustments related to trade deals may contribute to cautious hiring and investment behavior in UK tech."
+      }
+    ]
+  },
+  "eu_tech_market": {
+    "positive_trends": [
+      {
+        "title": "Resilient Tech Hiring in Key EU Markets",
+        "explanation": "LinkedIn reports tech hiring growth in Germany and Netherlands, driven by specialized AI roles increasing by 15%."
+      },
+      {
+        "title": "Growing Demand for AI Specializations",
+        "explanation": "Specialized AI positions rising signifies strong focus on next-gen technology skills adoption in EU tech markets."
+      },
+      {
+        "title": "Stable Labor Market Amid Global Uncertainties",
+        "explanation": "EU tech sectors maintain momentum indicating balanced growth despite global macroeconomic challenges."
+      }
+    ],
+    "negative_trends": [
+      {
+        "title": "Global Tech Layoffs Impacting EU Talent Pool",
+        "explanation": "Continuous global layoffs (864 daily worldwide) signal prospective headwinds potentially affecting EU tech job security."
+      },
+      {
+        "title": "Energy Price Pressures Might Restrain Growth",
+        "explanation": "High energy costs in Europe remain a concern, potentially limiting startup expansions and investments in tech infrastructure."
+      },
+      {
+        "title": "Supply Chain Constraints Persist",
+        "explanation": "Logistical delays and inflationary pressures continue to challenge efficient scaling of tech companies across the EU."
+      }
+    ]
+  },
+  "insight_of_day": "Across US, UK, and EU tech markets, macroeconomic resilience and AI-driven skill demand create growth opportunities, yet persistent hiring slowdowns and labor market disruptions highlight tensions between platform-specific challenges and broader sectoral gains."
+}
